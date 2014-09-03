@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.chedd.com/cheduoduo.ipa</string>
+					<string>http://wxiosdev.com/app/cheduoduo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://test.chedd.com/icon.png</string>
+					<string>http://wxiosdev.com/app/cheduoduo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
